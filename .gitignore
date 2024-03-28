@@ -1,0 +1,9 @@
+*/.vscode
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/.gitignore
+*/*/.gitignore
+*/.venv
+*/.DS_Store
+

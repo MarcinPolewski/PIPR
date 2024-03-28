@@ -1,0 +1,8 @@
+1. Utwórz środowisko wirtualne za pomocą `python3 -m venv .venv`
+2. Uruchom środowisko wirtualne za pomocą `source .venv/bin/activate`
+3. Zainstaluj bibliotekę do obsługi plików w formacie YAML: `pip install pyyaml`
+4. Zrzuć listę postów do pliku w formacie YAML.
+5. Za pomocą polecenia `pip freeze > requirements.txt` utwórz plik `requirements.txt` umożliwiający odtworzenie Twojego środowiska wirtualnego. Upewnij się, że ma właściwą zawartość.
+6.  Wyłącz środowisko wirtualne za pomocą `deactivate`.
+7.  Skasuj folder `.venv`
+8.  Utwórz nowe środowisko wirtualne, aktywuj je i za pomocą `pip install -r requirements.txt` odtwórz zapisaną konfigurację. Upewnij się, że Twój skrypt ponownie działa jak powinien w nowym środowisku wirtualnym.

@@ -1,0 +1,26 @@
+[
+    {
+        "path": "/Users/marcinpolewski/Documents/Studia/PIPR/laby i filmiki/filmik9/zadanie_przed_labem/zad1.txt",
+        "parent_folder_path": "/Users/marcinpolewski/Documents/Studia/PIPR/laby i filmiki/filmik9/zadanie_przed_labem",
+        "parent_folder_name": "zadanie_przed_labem",
+        "file_name": "zad1",
+        "file_ext": ".txt",
+        "number_of_lines": 4
+    },
+    {
+        "path": "/Users/marcinpolewski/Documents/Studia/PIPR/laby i filmiki/filmik9/zadanie_przed_labem/zad2.txt",
+        "parent_folder_path": "/Users/marcinpolewski/Documents/Studia/PIPR/laby i filmiki/filmik9/zadanie_przed_labem",
+        "parent_folder_name": "zadanie_przed_labem",
+        "file_name": "zad2",
+        "file_ext": ".txt",
+        "number_of_lines": 8
+    },
+    {
+        "path": "/Users/marcinpolewski/Documents/Studia/PIPR/laby i filmiki/filmik9/zadanie_przed_labem/zad3.txt",
+        "parent_folder_path": "/Users/marcinpolewski/Documents/Studia/PIPR/laby i filmiki/filmik9/zadanie_przed_labem",
+        "parent_folder_name": "zadanie_przed_labem",
+        "file_name": "zad3",
+        "file_ext": ".txt",
+        "number_of_lines": 1
+    }
+]
